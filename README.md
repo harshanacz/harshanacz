@@ -1,6 +1,6 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsvKPmEyOBhHlZExFUp1-XyXqZGeOSRYkB5S0qoqY-6zdzMoeusU_UZdKN3pw1WMiDDedj081H1_zVgeRNdA9053UcH-PwzMccb7Z1YBiEukz_O6gq3XtfaR-ONsmWjIM_F6fvuWp07ZXVh1JhalTjlZCd3jUB5fOslsDO1cz6LMW1cx9l6uV5CyKgMQ/s1600/harshanacz.png)
 <h1 align="center">Hi 👋, I'm Harshana</h1>
-<h3 align="center">App developer | Web developer | UI-UX developer</h3>
+<h3 align="center">App developer | Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshanacz&label=Profile%20views&color=0e75b6&style=flat" alt="harshanacz" /> </p>
 
