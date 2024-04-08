@@ -10,7 +10,9 @@
 <h3>About Me</h3>
 
 <p>
-  I'm a passionate developer with a focus on creating beautiful and functional mobile and web applications. Currently, I'm working on an exciting chat app project that aims to revolutionize communication.
+  I started learning to code when I was 15 years old because I wanted to make my own web browser. Over time, I have gained a wealth of experience designing and developing mobile and web applications. I launched my first software application at 16 years old. It was a web browser created using Visual Basic. Now, I'm working as a mobile app developer at Tussle Inc.
+
+Fun fact about me: I hate theories; I prefer practical applications.
 </p>
 
 <h3>Contact Me</h3>
