@@ -6,4 +6,4 @@
 
 ---
 
-Using a Mac? You might find [Synapse ↗](https://www.synapsemac.com/) useful.
+Using a Mac? You might find [Synapse ↗](https://www.synapsemac.com/) useful :)
