@@ -5,7 +5,7 @@ Using a Mac? You might find [Synapse ↗](https://www.synapsemac.com/) useful :)
 
 
 [Website ↗](https://harshanacz.com/) •
-[My Blog ↗](https://standwithflutter.blogspot.com/)
+[My Blog (2021 - present) ↗](https://standwithflutter.blogspot.com/)
 
 ---
 ### building an xml tooling ecosystem (typescript)
@@ -17,3 +17,11 @@ Using a Mac? You might find [Synapse ↗](https://www.synapsemac.com/) useful :)
 [xml-review-bot-demo](https://github.com/harshanacz/xml-review-bot-demo) - github action for xml pull request reviews using xml-language-service.<br>
 [xerces-wasm-validator](https://github.com/harshanacz/xerces-wasm-validator) - apache xerces-c++ compiled to webassembly for xml/xsd validation. [![npm](https://img.shields.io/badge/npm-package-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xerces-wasm)<br>
 [xerces-playground](https://github.com/harshanacz/xerces-playground) - browser playground for validating xml using xerces-wasm.
+
+---
+### Other Projects 
+
+[GemFold](https://chromewebstore.google.com/detail/gemfold-%E2%80%93-gemini-folders/nbdikaajlnjfnfdbmehlipfbjleobllg) - Freeware Chrome extension for organizing Gemini chats (1K+ Active Users).<br>
+[Moderato CMaaS](https://github.com/Moderato-CMaaS) - Open-source Content Moderation as a Service.<br>
+[synapsemac.com](https://www.synapsemac.com) • [noico.app](https://www.noico.app) • [reelwords](https://apps.apple.com/us/app/reelwords-viral-video-captions/id6769127854) • and more.
+
