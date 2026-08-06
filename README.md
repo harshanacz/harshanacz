@@ -10,7 +10,7 @@ Using a Mac? You might find [Synapse ↗](https://www.synapsemac.com/) useful :)
 ---
 ### building an xml tooling ecosystem (typescript)
 
-[xerces-wasm-validator](https://github.com/harshanacz/xerces-wasm-validator) - apache xerces-c++ compiled to webassembly for xml/xsd validation. [![npm](https://img.shields.io/badge/npm-package-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xerces-wasm)<br>
+[xerces-wasm-validator](https://github.com/harshanacz/xerces-wasm-validator) - apache xerces-c++ compiled to webassembly for xml/xsd validation. [![npm](https://img.shields.io/badge/npm-package-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xerces-wasm) [Benchmark](https://github.com/harshanacz/xml-val-benchmark)<br>
 [xerces-playground](https://github.com/harshanacz/xerces-playground) - browser playground for validating xml using xerces-wasm. [try it](https://xerces-wasm.harshanacz.com/) <br>
 [xml-language-service](https://github.com/harshanacz/xml-language-service) - core xml engine for diagnostics, completion, formatting, and validation. [![npm](https://img.shields.io/badge/npm-package-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xml-language-service)<br>
 [xml-language-server](https://github.com/harshanacz/xml-language-server) - language server protocol (lsp) implementation built on top of xml-language-service.<br>
