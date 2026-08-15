@@ -24,5 +24,5 @@ Using a Mac? You might find [Synapse ↗](https://www.synapsemac.com/) useful :)
 
 [GemFold](https://chromewebstore.google.com/detail/gemfold-%E2%80%93-gemini-folders/nbdikaajlnjfnfdbmehlipfbjleobllg) - Freeware Chrome extension for organizing Gemini chats (1K+ Active Users).<br>
 [Moderato CMaaS](https://github.com/Moderato-CMaaS) - Open-source Content Moderation as a Service.<br>
-[synapsemac.com](https://www.synapsemac.com) • [noico.app](https://www.noico.app) • [reelwords](https://apps.apple.com/us/app/reelwords-viral-video-captions/id6769127854) • and more.
+[synapsemac.com](https://www.synapsemac.com) • [noico.app](https://www.noico.app)  and more.
 
