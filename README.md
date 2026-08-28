@@ -4,12 +4,13 @@ IRL : [Website ↗](https://harshanacz.com/) •
 [My Blog (2021 - present) ↗](https://standwithflutter.blogspot.com/) •
 [YouTube ↗](https://www.youtube.com/@kharshanacz) <br><br>
 
-### building an xml tooling ecosystem (typescript)
+### what I'm working on:
 
-> **[xml-language-ecosystem ↗](https://github.com/harshanacz/xml-language-ecosystem)**
+
 >
 > a browser-native xml language server, runs in vscode.dev, xsd validation via xerces-c++ compiled to wasm.
 >
+> [xml-language-ecosystem (Umbrella repo)↗](https://github.com/harshanacz/xml-language-ecosystem) <br>
 > [xerces-wasm-validator](https://github.com/harshanacz/xerces-wasm-validator) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xerces-wasm) •
 > [xerces-playground](https://xerces-wasm.harshanacz.com/) •
 > [xml-language-service](https://github.com/harshanacz/xml-language-service) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xml-language-service) •
@@ -19,8 +20,8 @@ IRL : [Website ↗](https://harshanacz.com/) •
 > [xml-review-bot-demo](https://github.com/harshanacz/xml-review-bot-demo) •
 > [benchmarks](https://github.com/harshanacz/xml-val-benchmark)
 
-### Other
-> a few things I've shipped, GemFold has 1.3K weekly users, Synapse has crossed 1.5K downloads and Moderato CMaaS placed Top 10 in Innovate with Ballerina 2025.
+
+> & a few things I've shipped, GemFold has 1.3K weekly users, Synapse has crossed 1.5K downloads and Moderato CMaaS placed Top 10 in Innovate with Ballerina 2025.
 >
 > [GemFold](https://chromewebstore.google.com/detail/gemfold-%E2%80%93-gemini-folders/nbdikaajlnjfnfdbmehlipfbjleobllg) •
 > [Synapse](https://www.synapsemac.com) •
