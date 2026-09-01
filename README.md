@@ -1,5 +1,7 @@
 # Hola! 👋
-![Profile views](https://komarev.com/ghpvc/?username=harshanacz&label=Profile%20views&color=0e75b6&style=flat) <br><br>
+![Profile views](https://komarev.com/ghpvc/?username=harshanacz&label=Profile%20views&color=0e75b6&style=flat) <a href="https://www.buymeacoffee.com/kharshanacz" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-0366d6?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" style="height:20px; margin-left:8px;" />
+</a> <br><br>
 IRL : [Website ↗](https://harshanacz.com/) •
 [My Blog (2021 - present) ↗](https://standwithflutter.blogspot.com/) •
 [YouTube ↗](https://www.youtube.com/@kharshanacz) <br><br>
