@@ -12,6 +12,7 @@ IRL : [Website ↗](https://harshanacz.com/) •
 >
 > a JVM-free xml language server in typescript, with xsd validation via xerces-c++ compiled to wasm. next up: running it in vscode.dev.
 >
+> [Schema-Aware XML](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-0a3a40?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) (0.1.0 preview) <br>
 > [xml-language-ecosystem (Umbrella repo)↗](https://github.com/harshanacz/xml-language-ecosystem) <br>
 > [xerces-wasm-validator](https://github.com/harshanacz/xerces-wasm-validator) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xerces-wasm) •
 > [xerces-playground](https://xerces-wasm.harshanacz.com/) •
@@ -23,9 +24,8 @@ IRL : [Website ↗](https://harshanacz.com/) •
 > [benchmarks](https://github.com/harshanacz/xml-val-benchmark)
 
 
-> & a few things I've shipped, Schema-Aware XML is live on the VS Code Marketplace (0.1.0 preview), GemFold has 1.3K weekly users, Synapse has crossed 1.5K downloads and Moderato CMaaS placed Top 10 in Innovate with Ballerina 2025.
+> & a few things I've shipped, GemFold has 1.3K weekly users, Synapse has crossed 1.5K downloads and Moderato CMaaS placed Top 10 in Innovate with Ballerina 2025.
 >
-> [Schema-Aware XML](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-0a3a40?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) •
 > [GemFold](https://chromewebstore.google.com/detail/gemfold-%E2%80%93-gemini-folders/nbdikaajlnjfnfdbmehlipfbjleobllg) •
 > [Synapse](https://www.synapsemac.com) •
 > [Moderato CMaaS (FOSS)](https://github.com/Moderato-CMaaS) •
