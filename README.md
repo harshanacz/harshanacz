@@ -12,7 +12,9 @@ IRL : [Website ↗](https://harshanacz.com/) •
 >
 > a JVM-free xml language server in typescript, with xsd validation.
 
-Wanna contribute? next up: running it in vscode.dev.
+> [!TIP]
+> **Wanna contribute?** Next up: running it in vscode.dev. Pick any repo below, open an issue or send a PR.
+
 > These are the repos:<br>
 > [xml-language-service](https://github.com/harshanacz/xml-language-service) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xml-language-service) •
 > [xml-language-server](https://github.com/harshanacz/xml-language-server) •
