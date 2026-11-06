@@ -9,18 +9,14 @@ IRL : [Website ↗](https://harshanacz.com/) •
 ### what I'm working on:
 
 > [Schema-Aware XML](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-0a3a40?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) (0.1.0 preview) <br>
->
 > a JVM-free xml language server in typescript, with xsd validation.
-
-> [!TIP]
-> **Wanna contribute?** Next up: running it in vscode.dev. Pick any repo below, open an issue or send a PR.
-
-> These are the repos:<br>
-> [xml-language-service](https://github.com/harshanacz/xml-language-service) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xml-language-service) •
+> <br> <br>**Wanna contribute?** Next up: running it in vscode.dev. Pick any repo below :)
+> <br> <br>These are the repos:<br>
+> [xml-language-service](https://github.com/harshanacz/xml-language-service) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xml-language-service) 
 > [xml-language-server](https://github.com/harshanacz/xml-language-server) •
 > [xml-language-client](https://github.com/harshanacz/xml-language-client) •
 > [xml-lsp-marketplace](https://github.com/harshanacz/xml-lsp-marketplace)
-
+>
 > Other related:<br>
 > [xerces-wasm-validator](https://github.com/harshanacz/xerces-wasm-validator) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)](https://www.npmjs.com/package/xerces-wasm) •
 > [xerces-playground](https://xerces-wasm.harshanacz.com/)
