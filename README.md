@@ -8,7 +8,7 @@ IRL : [Website ↗](https://harshanacz.com/) •
 
 ### what I'm working on:
 
-> [Schema-Aware XML](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-0a3a40?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) (0.1.0 preview) <br>
+> [Schema-Aware XML](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) [![VS Code Marketplace](https://img.shields.io/badge/VS%20Code-Marketplace-0a3a40?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) [![Open VSX](https://img.shields.io/badge/Open%20VSX-Antigravity-c160ef?logo=eclipseide&logoColor=white)](https://open-vsx.org/extension/harshanacz/xml-language-client) (0.1.0 preview) <br>
 > a JVM-free xml language server in typescript, with xsd validation.
 > <br> <br>**Wanna contribute?** Next up: running it in vscode.dev. Pick any repo below :)
 > <br> <br>These are the repos:<br>
